@@ -1,0 +1,26 @@
+{
+    "token": "Votre token",
+    
+    
+    "default_prefix": "&",
+    
+    
+    "owners": ["699570257869799455","Votre id"],
+    
+    
+   "tenorkey": "Votre tenor api key",
+
+    
+
+    "color": "#DEB887",
+
+    
+
+    "salonready": ["votre salon de ready"],
+    
+    "erreur": ":x:",
+     
+
+   "everyoneMention": false
+
+}
